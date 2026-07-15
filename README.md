@@ -2,7 +2,7 @@
 
 > 在九宫格中编排卡牌、触发连锁，并用扑克牌型构筑得分。
 
-https://github.com/user-attachments/assets/81f4a75e-0de2-431d-a3f3-9386d6627266
+![Grid Card 局内演示](Media/gameplay.gif)
 
 ## 下载试玩
 
