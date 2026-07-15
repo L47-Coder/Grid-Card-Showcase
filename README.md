@@ -2,7 +2,7 @@
 
 > 在九宫格中编排卡牌、触发连锁，并用扑克牌型构筑得分。
 
-[▶ 播放局内宣传视频（MP4）](Media/gameplay.mp4)
+https://github.com/user-attachments/assets/81f4a75e-0de2-431d-a3f3-9386d6627266
 
 ## 下载试玩
 
